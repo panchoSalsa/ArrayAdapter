@@ -1,3 +1,8 @@
+source https://github.com/codepath/android-custom-array-adapter-demo
+
+
+
+
 # Android Custom Adapter Demo
 
 This sample shows how to display a ListView based on an array data source using a custom layout template for displaying each item. In this case, there is a `User` object with a name and hometown being displayed into a ListView. 
